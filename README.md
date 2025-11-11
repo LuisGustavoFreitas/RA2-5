@@ -42,7 +42,7 @@ O sistema persiste os dados em arquivos locais:
 | `add <id> <nome> <quantidade> <categoria>` | Adiciona um item ao inventário | `add I001 Teclado 10 Perifericos` |
 | `remove <id> <quantidade>` | Remove unidades de um item | `remove I001 3` |
 | `update <id> <nova_quantidade>` | Atualiza a quantidade total do item | `update I001 15` |
-| `delete <id>` | Deleta o ID desejado | `delete I001` |
+| `delete <id>` | Deleta o item desejado | `delete I001` |
 | `list` | Lista todos os itens cadastrados | `list` |
 | `report` | Mostra erros registrados e itens mais movimentados | `report` |
 | `help` | Mostra todos os comandos disponíveis | `help` |
