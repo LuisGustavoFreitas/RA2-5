@@ -1,0 +1,17 @@
+LogEntry {timestamp = 2025-11-14 22:17:06.925936824 UTC, acao = Add "I001", detalhes = "Item {itemID = \"I001\", nome = \"Monitor\", quantidade = 2, categoria = \"Perif\\233ricos\"}", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 22:17:39.598580992 UTC, acao = Add "I002", detalhes = "Item {itemID = \"I002\", nome = \"Teclado\", quantidade = 5, categoria = \"Perif\\233ricos\"}", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 22:18:08.544080892 UTC, acao = Add "I003", detalhes = "Item {itemID = \"I003\", nome = \"L\\225pis\", quantidade = 10, categoria = \"Material Escolar\"}", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 22:18:33.643480088 UTC, acao = Add "I004", detalhes = "Item {itemID = \"I004\", nome = \"Caneta\", quantidade = 15, categoria = \"Material Escolar\"}", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 22:18:54.057040701 UTC, acao = QueryFail "I005 Borracha 3 Material Escolar", detalhes = "comando inv\225lido", status = Falha "comando inv\225lido"}
+LogEntry {timestamp = 2025-11-14 22:19:09.089719447 UTC, acao = Add "I005", detalhes = "Item {itemID = \"I005\", nome = \"Borracha\", quantidade = 3, categoria = \"Material Escolar\"}", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 22:19:23.842177069 UTC, acao = Add "I006", detalhes = "Item {itemID = \"I006\", nome = \"Mouse\", quantidade = 1, categoria = \"Perif\\233ricos\"}", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 22:19:53.625526535 UTC, acao = Add "I007", detalhes = "Quantidade inv\225lida", status = Falha "Quantidade inv\225lida"}
+LogEntry {timestamp = 2025-11-14 22:27:37.220912002 UTC, acao = QueryFail "list]", detalhes = "comando inv\225lido", status = Falha "comando inv\225lido"}
+LogEntry {timestamp = 2025-11-14 22:27:39.513530915 UTC, acao = QueryFail "list\ESC[A", detalhes = "comando inv\225lido", status = Falha "comando inv\225lido"}
+LogEntry {timestamp = 2025-11-14 22:27:40.71477016 UTC, acao = QueryFail "ist", detalhes = "comando inv\225lido", status = Falha "comando inv\225lido"}
+LogEntry {timestamp = 2025-11-14 22:27:42.189684009 UTC, acao = QueryFail "list]", detalhes = "comando inv\225lido", status = Falha "comando inv\225lido"}
+LogEntry {timestamp = 2025-11-14 22:28:05.008235807 UTC, acao = Add "I007", detalhes = "Item {itemID = \"I007\", nome = \"Computador\", quantidade = 4, categoria = \"Perif\\233ricos\"}", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 22:28:06.503378123 UTC, acao = QueryFail "lsit", detalhes = "comando inv\225lido", status = Falha "comando inv\225lido"}
+LogEntry {timestamp = 2025-11-14 22:29:14.510865061 UTC, acao = Add "I008", detalhes = "Item {itemID = \"I008\", nome = \"Rel\\243gio\", quantidade = 6, categoria = \"Tecnologia\"}", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 22:29:36.711088559 UTC, acao = Add "I009", detalhes = "Item {itemID = \"I009\", nome = \"Penal\", quantidade = 2, categoria = \"Material Escolar\"}", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 22:30:04.286234423 UTC, acao = Add "I010", detalhes = "Item {itemID = \"I010\", nome = \"Controle\", quantidade = 3, categoria = \"Tecnologia\"}", status = Sucesso}
